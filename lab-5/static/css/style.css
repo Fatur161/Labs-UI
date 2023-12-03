@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+}
+
+img{
+    height: 300px;
+    width: 350px;
+}
+
+.centr-cont{
+    height: 650px;
+    width: 750px;
+    background-color: #69FC5F;
+    margin-left: calc((100% - 750px)/2);
+}
+
+.block{
+    position: relative;
+    height: 300px;
+    width: 350px;
+    display: inline-block;
+}
+
+.first{
+    background-color: #FAB933;
+}
+
+.second{
+    background-color: #5e4e4e;
+    margin-left: 46px;
+
+}
+
+.third{
+    background-color: #5FF6FC;
+    margin-top: 46px;
+}
+
+.fourth{
+    margin-left: 46px;
+    margin-top: 46px;
+    background-color: #69FC5F;
+}
